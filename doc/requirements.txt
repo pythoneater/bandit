@@ -3,3 +3,4 @@
 # process, which may cause wedges in the gate later.
 sphinx>=4.0.0 # BSD
 sphinx-rtd-theme>=0.3.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
